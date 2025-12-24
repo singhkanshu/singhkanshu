@@ -1,4 +1,10 @@
-## Hi there 👋
+
+
+🖥   I am working as Integration Developer.Experince in (IBM App connect/IBM Integration Bus, IBM MQ,Kafka, Java, REST API)
+🌱  I am currently learning Devops tools and methodologies
+👯  Learning and exploring Github
+
+
 
 <!--
 **singhkanshu/singhkanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
